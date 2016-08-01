@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login Screen</string>
+    <string name="action_settings">Settings</string>
+    <string name="edittext_email_hint">Email</string>
+    <string name="edittext_pw_hint">Password</string>
+    <string name="login_button">LOGIN</string>
+</resources>
